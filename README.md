@@ -1,0 +1,2 @@
+# ultrasound_nerve_segmentation_kaggle
+learning in Convolutional Neural Network
